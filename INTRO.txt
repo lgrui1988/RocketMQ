@@ -1,3 +1,1 @@
-This is just a learning project. Hi This is a Update. Hi This is a Update 2.
-This is a UPDATE in bug001.
-resolved~!
+This project will add Chinese comments to codes.
